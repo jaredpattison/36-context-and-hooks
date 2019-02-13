@@ -3,10 +3,10 @@
 
 ## Code 36: Context and Hooks
 
-### Author: Student/Group Name
+### Author: Jared
 
 ### Links and Resources
-* [CodeSandboc](https://codesandbox.io/s/qkl1zjzm0w)
+* [CodeSandbox](https://codesandbox.io/s/qkl1zjzm0w)
 
   
 #### Tests
